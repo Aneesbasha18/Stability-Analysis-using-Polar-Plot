@@ -10,6 +10,12 @@ Computer with MATLAB software
 	Save and Execute the program.
 	Determine the gain crossover frequency, phase cross over frequency, gain margin and phase margin.
 	Also determine the stability.
+## Theory:
+![IMG-20251127-WA0052](https://github.com/user-attachments/assets/428658f9-e0c0-4936-9a12-51d6dcc9f43a)
+![IMG-20251127-WA0054](https://github.com/user-attachments/assets/ab9bcff3-c5ff-436d-9a34-34d607aa12f7)
+![IMG-20251127-WA0056](https://github.com/user-attachments/assets/51f5d559-c40e-4840-bc8d-40ae6362c7ca)
+![IMG-20251127-WA0057](https://github.com/user-attachments/assets/65935cff-ee09-4f0b-841d-5d4038634320)
+
 
 ## Program: 
 num=[10]<br>
